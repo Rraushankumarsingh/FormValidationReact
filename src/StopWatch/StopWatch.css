@@ -1,0 +1,30 @@
+/* Add this to your CSS file or style tag in your component */
+
+div {
+  
+    text-align: center;
+    margin: 50px;
+   
+  }
+  
+  p {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    font-size: 1em;
+    margin: 0 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+  }
+  
+  button:hover {
+    background-color: #2980b9;
+  }
+  
